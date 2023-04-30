@@ -9,7 +9,7 @@ $ pip3 install selenium
 
 and chromedriver compatible with your chrome version https://chromedriver.chromium.org/downloads (gecko-firefox is not yet fully tested and may cause problems)
 
-In line 25 you must set location to your chromedriver:
+In line 32 you must set location to your chromedriver:
 
             gecko_driver_path = "./geckodriver"
 
