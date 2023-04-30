@@ -11,7 +11,7 @@ and chromedriver compatible with your chrome version https://chromedriver.chromi
 
 In line 32 you must set location to your chromedriver:
 
-            gecko_driver_path = "./geckodriver"
+            chrome_driver_path = "./chromedriver"
 
 Next, run script:
 
