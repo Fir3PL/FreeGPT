@@ -1,6 +1,8 @@
 # FreeGPT
 ChatGPT automation tool in selenium.
 
+!! WARNING !! I recommend running the script on a virtual machine, the script gives GPT access to execute commands on the system on which it is running and its operation may lead to unforeseen consequences!
+
 FreeGPT Start Prompt:
 
 --------------------------------------
