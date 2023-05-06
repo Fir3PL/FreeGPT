@@ -43,3 +43,5 @@ Next, run script:
 $ python3 freegpt.py
 
 Wait for browser window and login on your chatgpt account. Click all welcome messages from OpenAI, open terminal window with script, and press Enter. Enjoy!
+
+!! WARNING !! I recommend running the script on a virtual machine, the script gives GPT access to execute commands on the system on which it is running and its operation may lead to unforeseen consequences!
