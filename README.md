@@ -37,9 +37,9 @@ and chromedriver compatible with your chrome version https://chromedriver.chromi
 In line 32 you must set location to your chromedriver:
 
             chrome_driver_path = "./chromedriver"
-
+# Installtion
 Next, run script:
-
+- pip install -r requirement.txt 
 $ python3 freegpt.py
 
 Wait for browser window and login on your chatgpt account. Click all welcome messages from OpenAI, open terminal window with script, and press Enter. Enjoy!
